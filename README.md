@@ -2,13 +2,13 @@
 适用于移动端得人脸识别模型，计算量于mobilefacenet相同，但megaface上提升了2%+
 
 ## 模型在各个数据集上表现如下：
-|Methods|Flops (112x112)|LFW|CFP-FP|AgeDB|Megaface-Id|Megaface-Ver@1e-6|备注
+|Methods|Flops (112x112)|LFW|CFP-FP|AgeDB|Megaface-Id|Megaface-Ver@1e-6|备 注
 |:----|:----|:-----|:----|:----|:-----|:-----|:-----|
 |MobileFaceNet440,R|440M|99.70+|96.70+|96.95+|92.85+|94.20+|未开源
 |ZW350|356M|99.70+|96.82+|97.00+|93.90+|94.70+|未开源
 |ZW400|404M|99.70+|96.95+|97.00+|94.46+|95.60+|未开源
-|MobileFaceNet600,R|612M|99.76+|97.60+|97.50+|95.14+|95.98+|未开源
-|ZW400|444M|99.76+|97.30+|97.40+|95.25+|96.00+|未开源
+|MobileFaceNet600,R|612M|99.76+|97.60+|97.50+|95.14+|95.98+|已开源
+|ZW400|444M|99.76+|97.30+|97.40+|95.25+|96.00+|已开源
 
 ## Megafce测试结果图
 ![zw440-id](https://github.com/olojuwin/facerecognize-for-mobile-phone/tree/master/img/zw443m-ID.jpg)
