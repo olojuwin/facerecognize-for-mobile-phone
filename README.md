@@ -1,5 +1,6 @@
 # facerecognize-for-mobile-phone
-适用于移动端得人脸识别模型，计算量于mobilefacenet相同，但megaface上提升了2%+
+适用于移动端的人脸识别模型，计算量于mobilefacenet相同，但megaface上提升了2%+。我训练的mobilefacenet在megaface VER上比原作者
+高出了2%,因为训练的数据和方法不一样。
 
 ## 模型在各个数据集上表现如下：
 |Methods|Flops (112x112)|LFW|CFP-FP|AgeDB|Megaface-Id|Megaface-Ver@1e-6|备   注
