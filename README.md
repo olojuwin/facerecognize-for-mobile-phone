@@ -17,7 +17,7 @@
 
 
 ## 模型地址
-[BaiDu][](https://pan.baidu.com/s/1E27uWe4deWsE0va1u1LhrQ)   提取码：b0dm 
+[BaiDu](https://pan.baidu.com/s/1E27uWe4deWsE0va1u1LhrQ)   提取码：b0dm 
 
 
 ## Todo
