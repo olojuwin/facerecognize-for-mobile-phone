@@ -22,7 +22,11 @@
 
 
 
-## Todo
 
+##参考项目
+https://github.com/deepinsight/insightface
+
+
+## Todo
 readme太难写了，相关链接稍后放出，先放模型链接
 
