@@ -21,12 +21,14 @@
 [BaiDu](https://pan.baidu.com/s/1E27uWe4deWsE0va1u1LhrQ)   提取码：b0dm 
 
 
-
+## 训练数据
+https://github.com/deepinsight/insightface/tree/master/iccv19-challenge
 
 ## 参考项目
 https://github.com/deepinsight/insightface
-
+https://github.com/happynear/FaceVerification
+https://github.com/Tencent/ncnn
 
 ## Todo
-readme太难写了，相关链接稍后放出，先放模型链接
+
 
