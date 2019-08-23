@@ -26,7 +26,9 @@ https://github.com/deepinsight/insightface/tree/master/iccv19-challenge
 
 ## 参考项目
 https://github.com/deepinsight/insightface
+
 https://github.com/happynear/FaceVerification
+
 https://github.com/Tencent/ncnn
 
 ## Todo
