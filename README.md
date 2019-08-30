@@ -14,7 +14,7 @@
 ## Megafce测试结果图
 ![zw440-id](https://raw.githubusercontent.com/olojuwin/facerecognize-for-mobile-phone/master/img/zw443m-ID.jpg)
 
-![zw440-id](https://raw.githubusercontent.com/olojuwin/facerecognize-for-mobile-phone/master/img/zw443m-ver.jpg)
+![zw440-ver](https://raw.githubusercontent.com/olojuwin/facerecognize-for-mobile-phone/master/img/zw443m-ver.jpg)
 
 
 
