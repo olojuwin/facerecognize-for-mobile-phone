@@ -12,12 +12,18 @@
 |ZW440|444M|99.76+|97.30+|97.40+|95.25+|96.00+|已开源
 
 ## Megafce测试结果图
+zw440-id
 ![zw440-id](https://raw.githubusercontent.com/olojuwin/facerecognize-for-mobile-phone/master/img/zw443m-ID.jpg)
-
+zw440-ver
 ![zw440-ver](https://raw.githubusercontent.com/olojuwin/facerecognize-for-mobile-phone/master/img/zw443m-ver.jpg)
 
 
-
+## 速度比对测试
+设备：i5-6500(暂时没有移动设备测试)
+|Methods|Openvimo|opencv单线程|
+|:----|:----|:-----|
+|MobileFaceNet600,R|6ms|141ms|
+|ZW440|7ms|80ms
 
 ## 模型地址
 模型包含mxnet ncnn  caffe 三种格式
