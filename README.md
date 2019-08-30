@@ -19,8 +19,8 @@ zw440-ver
 
 
 ## 速度比对测试
-# 设备：i5-6500(暂时没有移动设备测试)
-|Methods|Openvimo|opencv单线程|
+### 设备：i5-6500(暂时没有移动设备测试)
+|Methods|Openvino|opencv单线程|
 |:----|:----|:-----|
 |MobileFaceNet600,R|6ms|141ms|
 |ZW440|7ms|80ms
