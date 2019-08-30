@@ -42,6 +42,8 @@ https://github.com/happynear/FaceVerification
 
 https://github.com/Tencent/ncnn
 
+https://github.com/cypw/MXNet2Caffe
+
 ## Todo
 
 没有做速度方面考虑，后期跟进改善。
