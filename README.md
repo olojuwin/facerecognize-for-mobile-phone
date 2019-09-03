@@ -27,6 +27,10 @@ zw440-ver
 |MobileFaceNet600,R|6ms|141ms|
 |ZW440|7ms|80ms
 
+### 移动设备
+经过测试，zw440并没有Mobilefacenet600M快.感谢[moli](https://github.com/moli232777144)的测试
+
+
 ## 模型地址
 模型包含mxnet ncnn  caffe 三种格式
 [Baidu Drive](https://pan.baidu.com/s/1E27uWe4deWsE0va1u1LhrQ)   提取码：b0dm 
