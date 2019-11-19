@@ -11,7 +11,7 @@
 |MobileFaceNet600,R|612M|99.76+|97.60+|97.50+|95.14+|95.98+|已开源
 |ZW440|444M|99.76+|97.30+|97.40+|95.25+|96.00+|已开源
 
-## Megafce测试结果图
+## Megaface测试结果图
 zw440-id
 ![zw440-id](https://raw.githubusercontent.com/olojuwin/facerecognize-for-mobile-phone/master/img/zw443m-ID.jpg)
 
